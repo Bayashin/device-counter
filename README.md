@@ -16,5 +16,5 @@ $ sudo go run icmp/main.go
 ### ARP
 
 ```sh
-sudo go run arp/main.go
+$ sudo go run arp/main.go
 ```
